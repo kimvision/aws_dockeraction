@@ -7,6 +7,7 @@ st.write("반가워요!")
 st.write("춥다!")
 st.write("춥워!")
 st.write("매우..!")
+st.write("잘되니???")
 
 
 st.sidebar.header("설정")
